@@ -1,0 +1,7 @@
+## Interface: 100105
+## Title: Breath of Sindragosa Timer
+## Notes: Displays a dynamic timer for Breath of Sindragosa above the character.
+## Author: Jamison Stalter
+## Version: 1.0
+
+BreathOfSindragosaTimer.lua
